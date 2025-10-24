@@ -1,5 +1,8 @@
 aiogram
 psycopg2-binary
 redis
-ton-py
+tonsdk
 APScheduler
+cryptography
+aiohttp
+async-lru
